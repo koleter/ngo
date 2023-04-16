@@ -1,0 +1,194 @@
+{
+	"files": [
+		{
+			"path": "runtime/runtime2.go",
+			"bookmarks": [
+				{
+					"line": 312,
+					"column": 10,
+					"label": "gobuf"
+				},
+				{
+					"line": 408,
+					"column": 15,
+					"label": "g"
+				},
+				{
+					"line": 490,
+					"column": 14,
+					"label": "m"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/gc/align.go",
+			"bookmarks": [
+				{
+					"line": 247,
+					"column": 12,
+					"label": "记录了各个类型的字节数大小以及各种类型的字节数是如何运算的"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/gc/noder.go",
+			"bookmarks": [
+				{
+					"line": 56,
+					"column": 27,
+					"label": "主程序阅读位置"
+				},
+				{
+					"line": 285,
+					"column": 13,
+					"label": "AST树解析处"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/syntax/syntax.go",
+			"bookmarks": [
+				{
+					"line": 66,
+					"column": 116,
+					"label": "go文件解析的函数起始处"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/syntax/parser.go",
+			"bookmarks": [
+				{
+					"line": 374,
+					"column": 36,
+					"label": "文件被解析的函数"
+				},
+				{
+					"line": 1137,
+					"column": 35,
+					"label": "语法解析"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/gc/lex.go",
+			"bookmarks": [
+				{
+					"line": 34,
+					"column": 4,
+					"label": "go语言行指令对应的含义"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/syntax/tokens.go",
+			"bookmarks": [
+				{
+					"line": 148,
+					"column": 7,
+					"label": "运算符优先级"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/gc/order.go",
+			"bookmarks": [
+				{
+					"line": 586,
+					"column": 31,
+					"label": "编译"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/gc/esc.go",
+			"bookmarks": [
+				{
+					"line": 171,
+					"column": 6,
+					"label": "什么情况局部变量会通过堆申请内存"
+				}
+			]
+		},
+		{
+			"path": "syscall/exec_linux.go",
+			"bookmarks": [
+				{
+					"line": 538,
+					"column": 23,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "cmd/asm/main.go",
+			"bookmarks": [
+				{
+					"line": 23,
+					"column": 13,
+					"label": "asm可执行文件main函数"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/gc/dcl.go",
+			"bookmarks": [
+				{
+					"line": 275,
+					"column": 29,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/gc/reflect.go",
+			"bookmarks": [
+				{
+					"line": 1179,
+					"column": 17,
+					"label": "LSym中各类型数据"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/gc/ssa.go",
+			"bookmarks": [
+				{
+					"line": 3273,
+					"column": 1,
+					"label": "内置函数的ssa编译"
+				}
+			]
+		},
+		{
+			"path": "cmd/compile/internal/ssa/gen/AMD64Ops.go",
+			"bookmarks": [
+				{
+					"line": 168,
+					"column": 25,
+					"label": "汇编指令的含义"
+				}
+			]
+		},
+		{
+			"path": "cmd/go/internal/work/buildid.go",
+			"bookmarks": [
+				{
+					"line": 191,
+					"column": 34,
+					"label": ""
+				}
+			]
+		},
+		{
+			"path": "cmd/go/internal/work/exec.go",
+			"bookmarks": [
+				{
+					"line": 250,
+					"column": 37,
+					"label": ""
+				}
+			]
+		}
+	]
+}

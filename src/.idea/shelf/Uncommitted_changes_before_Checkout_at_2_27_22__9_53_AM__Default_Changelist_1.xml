@@ -1,0 +1,864 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1" date="1645926878065" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 2/27/22, 9:53 AM [Default Changelist]" />
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/crypto/md5.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/crypto/md5.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/md5.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/types.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/types.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/types.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/lockedfile.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/lockedfile.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/lockedfile.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/arm64.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/arm64.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/arm64.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/amd64.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/amd64.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/amd64.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/testlog.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/testlog.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/testlog.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/path.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/path.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/path.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../bin/gofmt" />
+    <option name="AFTER_PATH" value="../bin/gofmt" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/gofmt" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/obj/riscv.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/obj/riscv.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/riscv.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/hash.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/hash.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/hash.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/goversion.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/goversion.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/goversion.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/gc.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/gc.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/gc.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/math/bits.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/math/bits.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/bits.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/tool/linux_amd64/compile" />
+    <option name="AFTER_PATH" value="../pkg/tool/linux_amd64/compile" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/compile" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/asm/internal/lex.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/asm/internal/lex.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/lex.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/search.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/search.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/search.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/syntax.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/syntax.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/syntax.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/runtime/internal/math.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/runtime/internal/math.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/math.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/runtime.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/runtime.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/runtime.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../bin/go" />
+    <option name="AFTER_PATH" value="../bin/go" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/go" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/encoding/json.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/encoding/json.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/json.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/renameio.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/renameio.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/renameio.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/obj/arm.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/obj/arm.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/arm.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/text/template.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/text/template.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/template.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/go/scanner.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/go/scanner.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/scanner.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/loadxcoff.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/loadxcoff.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/loadxcoff.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/edit.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/edit.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/edit.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/get.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/get.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/get.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/module.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/module.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/module.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/mips.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/mips.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/mips.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/asm/internal/asm.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/asm/internal/asm.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/asm.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/logopt.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/logopt.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/logopt.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/runtime/internal/atomic.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/runtime/internal/atomic.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/atomic.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/unsafeheader.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/unsafeheader.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/unsafeheader.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/objabi.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/objabi.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/objabi.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/text/template/parse.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/text/template/parse.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/parse.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/poll.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/poll.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/poll.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/regexp.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/regexp.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/regexp.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/obj/wasm.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/obj/wasm.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/wasm.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/html.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/html.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/html.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/ld.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/ld.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/ld.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/lazyregexp.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/lazyregexp.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/lazyregexp.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/loadelf.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/loadelf.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/loadelf.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/debug/dwarf.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/debug/dwarf.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/dwarf.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/cache.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/cache.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/cache.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/xcoff.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/xcoff.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/xcoff.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/tool.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/tool.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/tool.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/tool/linux_amd64/link" />
+    <option name="AFTER_PATH" value="../pkg/tool/linux_amd64/link" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/link" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/modcmd.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/modcmd.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/modcmd.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/web.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/web.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/web.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/crypto.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/crypto.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/crypto.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/bio.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/bio.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/bio.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/help.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/help.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/help.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/semver.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/semver.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/semver.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/mvs.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/mvs.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/mvs.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/run.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/run.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/run.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/runtime/pprof.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/runtime/pprof.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/pprof.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/gcprog.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/gcprog.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/gcprog.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/debug/elf.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/debug/elf.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/elf.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/goroot.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/goroot.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/goroot.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/base.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/base.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/base.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/unicode.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/unicode.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/unicode.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/modfetch.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/modfetch.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/modfetch.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/syscall.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/syscall.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/syscall.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/path/filepath.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/path/filepath.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/filepath.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/hash/crc32.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/hash/crc32.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/crc32.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/benchmark.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/benchmark.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/benchmark.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/tool/linux_amd64/cgo" />
+    <option name="AFTER_PATH" value="../pkg/tool/linux_amd64/cgo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/cgo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/goobj2.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/goobj2.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/goobj2.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/zip.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/zip.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/zip.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/runtime/trace.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/runtime/trace.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/trace.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/fmtcmd.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/fmtcmd.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/fmtcmd.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/os.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/os.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/os.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/src.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/src.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/src.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/cfg.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/cfg.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/cfg.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/reflectlite.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/reflectlite.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/reflectlite.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/compress/zlib.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/compress/zlib.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/zlib.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/asm/internal/flags.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/asm/internal/flags.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/flags.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/imports.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/imports.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/imports.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/asm/internal/arch.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/asm/internal/arch.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/arch.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/ppc64.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/ppc64.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/ppc64.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/compile/internal/ssa.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/compile/internal/ssa.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/ssa.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/riscv64.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/riscv64.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/riscv64.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/singleflight.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/singleflight.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/singleflight.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/go/build.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/go/build.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/build.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/test2json.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/test2json.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/test2json.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/go/printer.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/go/printer.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/printer.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/syscall/execenv.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/syscall/execenv.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/execenv.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/race.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/race.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/race.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/sym.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/sym.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/sym.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/generate.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/generate.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/generate.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/vet.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/vet.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/vet.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/encoding/xml.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/encoding/xml.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/xml.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/list.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/list.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/list.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/modfile.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/modfile.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/modfile.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/log.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/log.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/log.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/crypto/sha1.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/crypto/sha1.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/sha1.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/encoding/base64.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/encoding/base64.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/base64.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/go/doc.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/go/doc.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/doc.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/sys.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/sys.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/sys.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/errors.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/errors.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/errors.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/compress/flate.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/compress/flate.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/flate.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/lockedfile/internal/filelock.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/lockedfile/internal/filelock.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/filelock.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/cpu.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/cpu.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/cpu.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/os/exec.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/os/exec.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/exec.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/xerrors/internal.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/xerrors/internal.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/internal.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/bug.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/bug.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/bug.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/obj/s390x.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/obj/s390x.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/s390x.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/compress/gzip.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/compress/gzip.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/gzip.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/go/token.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/go/token.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/token.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/load.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/load.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/load.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/envcmd.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/envcmd.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/envcmd.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/modconv.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/modconv.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/modconv.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/fmt.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/fmt.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/fmt.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/fix.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/fix.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/fix.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/loadpe.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/loadpe.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/loadpe.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/math/big.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/math/big.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/big.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/syscall/unix.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/syscall/unix.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/unix.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/time.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/time.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/time.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/modload.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/modload.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/modload.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/obj.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/obj.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/obj.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/work.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/work.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/work.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/hash/adler32.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/hash/adler32.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/adler32.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/cmdflag.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/cmdflag.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/cmdflag.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/xerrors.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/xerrors.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/xerrors.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/runtime/debug.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/runtime/debug.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/debug.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/loadmacho.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/loadmacho.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/loadmacho.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/container/heap.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/container/heap.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/heap.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/strings.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/strings.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/strings.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/modfetch/codehost.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/modfetch/codehost.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/codehost.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/oserror.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/oserror.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/oserror.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/debug/pe.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/debug/pe.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/pe.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/io.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/io.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/io.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/flag.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/flag.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/flag.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/bytes.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/bytes.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/bytes.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/unicode/utf16.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/unicode/utf16.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/utf16.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/net/url.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/net/url.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/url.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/modget.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/modget.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/modget.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/go/parser.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/go/parser.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/parser.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/tool/linux_amd64/asm" />
+    <option name="AFTER_PATH" value="../pkg/tool/linux_amd64/asm" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/asm" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/sumdb/dirhash.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/vendor/golang.org/x/mod/sumdb/dirhash.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/dirhash.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/obj/x86.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/obj/x86.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/x86.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/clean.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/clean.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/clean.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/test.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/test.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/test.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/io/ioutil.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/io/ioutil.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/ioutil.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/encoding/hex.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/encoding/hex.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/hex.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/fmtsort.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/fmtsort.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/fmtsort.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/sync.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/sync.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/sync.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/go/ast.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/go/ast.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/ast.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/str.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/str.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/str.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/modinfo.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/modinfo.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/modinfo.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/robustio.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/robustio.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/robustio.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/lazytemplate.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/lazytemplate.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/lazytemplate.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/mips64.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/mips64.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/mips64.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/unicode/utf8.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/unicode/utf8.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/utf8.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/crypto/sha256.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/crypto/sha256.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/sha256.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/strconv.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/strconv.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/strconv.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/par.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/par.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/par.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/context.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/context.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/context.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/internal/buildid.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/internal/buildid.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/buildid.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/os/signal.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/os/signal.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/signal.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/debug/macho.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/debug/macho.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/macho.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/go/internal/version.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/go/internal/version.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/version.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/bufio.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/bufio.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/bufio.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/reflect.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/reflect.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/reflect.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/math/rand.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/math/rand.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/rand.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/encoding/binary.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/encoding/binary.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/binary.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/sort.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/sort.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/sort.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/encoding.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/encoding.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/encoding.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/cmd/link/internal/loader.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/cmd/link/internal/loader.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/loader.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/text/tabwriter.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/text/tabwriter.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/tabwriter.a" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="../pkg/linux_amd64/internal/bytealg.a" />
+    <option name="AFTER_PATH" value="../pkg/linux_amd64/internal/bytealg.a" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2_27_22,_9_53_AM_[Default_Changelist]1/bytealg.a" />
+  </binary>
+</changelist>

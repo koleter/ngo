@@ -1,0 +1,65 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "asm",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/ljs/Desktop/go/pkg/tool/linux_amd64/asm",
+            "args": ["/home/ljs/Desktop/go/src/test.o"],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "name": "compile",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/ljs/Desktop/go/pkg/tool/linux_amd64/compile",
+            "args": ["-E","/home/ljs/Desktop/testgo/test.go"],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        },
+        {
+            "name": "go",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/home/ljs/Desktop/go/bin/go",
+            "args": ["build", "/home/ljs/Desktop/testgo/test.go"],
+            "stopAtEntry": true,
+            "cwd": "${workspaceFolder}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                }
+            ]
+        }
+    ]
+}
