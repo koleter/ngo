@@ -1,8 +1,147 @@
+Based on the official go 1.15.6 version, compile according to the official go language
+
+
+
+Added the following functions
+
+## Basic types can be used as receivers for functions
+
+```go
+package main
+
+import "fmt"
+
+func (i int) cmp(i2 int) bool {
+	return i > i2
+}
+
+func main() {
+	fmt.Println("hello")
+	var a = 3
+	fmt.Println(a.cmp(4))
+}
+```
+
+But you can't use the method of 3.cmp(4) to call with all your heart. To call this function, you need to use a variable instead of a constant. In addition, other packages cannot call the declaration in this package.
+
+
+
+## Python-like slicing
+
+Support the syntax of arr[i:j;k] and i, j, k are allowed to be negative values, indicating the penultimate item. Note that there is a semicolon instead of a colon between j and k, and k is the step of the slice. This way will create a new slice
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+	arr := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
+	fmt.Println(arr[2:9])
+	fmt.Println(arr[2:-2])
+	fmt.Println(arr[1:-1;2])
+	fmt.Println(arr[1:-1;-1])
+	fmt.Println(arr[2:2;20])
+}
+```
+
+
+
+This will output
+
+[3 4 5 6 7 8 9]
+[3 4 5 6 7]
+[2 4 6 8]
+[8 7 6 5 4 3 2]
+[]
+
+
+
+## Support AOP programming
+
+Add the //go:aop line instruction, modifying a function with this instruction can make the function be executed before and after the call of some functions, before means that the function will be called before the matched function is called, after means that it will be called after the call, around Represents the call once before and after, which is equivalent to using before and after at the same time, followed by a colon, followed by a regular expression, and other functions matching the regular expression will be applied to this rule
+
+The input parameter of the modified function is \*aop.CutPoint type, and the output parameter is \*aop.RetPoint type (currently the output parameter has no meaning, it can be any type, it is recommended to be this type)
+
+The structure of aop.CutPoint is as follows
+
+```go
+type CutPoint struct {
+	FuncName      string
+	Args, Results []interface{}
+}
+```
+
+FuncName represents the function name of the matched function (if the matched function has a receiver, the function name will have a prefix string representing the receiver type), Args and Results represent the input and output parameter lists of the matched function, Modifying these two lists will modify the input and output parameters of this function call (Results is an empty list before the function call)
+
+
+
+You can execute the following code and view the output
+
+```go
+package main
+
+import (
+	"aop"
+	"fmt"
+)
+
+// func test() {
+// 	cutpoint := &aop.CutPoint{}
+// 	fmt.Print(cutpoint)
+// }
+
+func main() {
+	a, b := test1("arg1", "arg2")
+	fmt.Println("test1函数的返回结果：", a+" test "+b)
+	test2(1, 1)
+	test3(3, 3)
+}
+
+//go:aop   after:^test.$
+func aop1(cp *aop.CutPoint) *aop.RetPoint {
+	if cp.FuncName == "test1" {
+		fmt.Println("test1的原参数列表：", cp.Args)
+		cp.Results[0] = "改掉的返回结果1"
+		cp.Results[1] = "改掉的返回结果2"
+	}
+	fmt.Println("我aop1咋执行了呢, 不是该执行" + cp.FuncName + "吗")
+	return nil
+}
+
+type Person struct{}
+
+// func (p *Person) test333() {}
+
+func test1(a, b string) (string, string) {
+	fmt.Println("test1执行中。。。")
+	defer func() {
+		a += "添加的内容"
+		fmt.Println("闭包函数为参数添加内容成功")
+	}()
+	return b, a
+}
+
+func test2(a, b int) (int, int) {
+	fmt.Println("test2函数执行中。。。")
+	return b, a
+}
+
+func test3(a, b int) (int, int) {
+	fmt.Println("test3函数执行中。。。")
+	return b, a
+}
+```
 
 
 
 
-在官方go 1.15.6版本上添加了如以下功能
+
+基于官方go 1.15.6版本,按照官方go语言进行编译即可
+
+
+
+添加了以下功能
 
 ## 基础类型可以作为函数的receiver
 
