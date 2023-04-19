@@ -135,7 +135,11 @@ func test3(a, b int) (int, int) {
 }
 ```
 
+This only affects functions in the same package
 
+
+
+<div style='height:300px'></div>
 
 
 
@@ -274,5 +278,5 @@ func test3(a, b int) (int, int) {
 }
 ```
 
-
+目前aop只会影响相同包内的函数
 
