@@ -138,8 +138,7 @@ func test3(a, b int) (int, int) {
 This only affects functions in the same package
 
 
-
-<div style='height:300px'></div>
+---
 
 
 
